@@ -8,14 +8,15 @@ class Solution {
         return ans;
     }
     private static void backtrack(int[] a,int s,int n,List<Integer>l,List<List<Integer>>ans){
-      
+      if(!ans.contains(new ArrayList<>(l))){
         ans.add(new ArrayList<>(l));
+      }
         
         for(int i=s;i<n;i++){
        //choose
-         if(i>s && a[i-1]==a[i]){
-            continue;
-         }
+        //  if(i>s && a[i-1]==a[i]){
+        //     continue;
+        //  }
         l.add(a[i]);
        //explore
         backtrack(a,i+1,n,l,ans);
