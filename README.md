@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
