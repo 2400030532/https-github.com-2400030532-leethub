@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [3794-reverse-string-prefix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
 | [2396-strictly-palindromic-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3794-reverse-string-prefix) |
 ## Brainteaser
 |  |
 | ------- |
