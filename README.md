@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
