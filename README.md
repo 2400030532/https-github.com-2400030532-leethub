@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3794-reverse-string-prefix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
