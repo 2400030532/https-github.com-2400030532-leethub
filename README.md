@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
