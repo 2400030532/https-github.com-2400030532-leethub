@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -155,15 +157,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -172,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
