@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
+| [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
 | [2396-strictly-palindromic-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2396-strictly-palindromic-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0303-range-sum-query-immutable) |
+| [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3904-smallest-stable-index-ii) |
