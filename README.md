@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0938-range-sum-of-bst) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0938-range-sum-of-bst) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
