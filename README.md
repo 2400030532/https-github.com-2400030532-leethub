@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
+| [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
+| [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
+| [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
 | [2678-number-of-senior-citizens](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
