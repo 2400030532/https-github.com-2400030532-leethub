@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3895-count-digit-appearances) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
 ## Bracket Sequences
 |  |
 | ------- |
