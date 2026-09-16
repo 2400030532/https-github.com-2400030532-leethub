@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -258,8 +259,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
