@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2000-reverse-prefix-of-word) |
