@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
