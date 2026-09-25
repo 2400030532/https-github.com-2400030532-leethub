@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
