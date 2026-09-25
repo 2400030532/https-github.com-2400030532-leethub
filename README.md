@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0941-valid-mountain-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
@@ -289,4 +293,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
