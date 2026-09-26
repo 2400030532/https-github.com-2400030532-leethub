@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
