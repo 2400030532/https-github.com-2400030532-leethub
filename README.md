@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
 | [2396-strictly-palindromic-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2396-strictly-palindromic-number) |
+| [2769-find-the-maximum-achievable-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
