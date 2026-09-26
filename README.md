@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1920-build-array-from-permutation](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
