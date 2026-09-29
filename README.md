@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
