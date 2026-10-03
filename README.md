@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0344-reverse-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
 ## Memoization
