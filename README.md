@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0654-maximum-binary-tree) |
 ## Tree
