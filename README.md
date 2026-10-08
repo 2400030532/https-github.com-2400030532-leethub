@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3446-sort-matrix-by-diagonals](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3446-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3898-find-the-degree-of-each-vertex) |
