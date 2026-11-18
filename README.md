@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1652-defuse-the-bomb](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1652-defuse-the-bomb) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1920-build-array-from-permutation](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1920-build-array-from-permutation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0303-range-sum-query-immutable) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1248-count-number-of-nice-subarrays) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3904-smallest-stable-index-ii) |
