@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [1980-find-unique-binary-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/1980-find-unique-binary-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0090-subsets-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/3794-reverse-string-prefix) |
