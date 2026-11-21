@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0049-group-anagrams) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0509-fibonacci-number) |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/2400030532/https-github.com-2400030532-leethub/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
